@@ -11,6 +11,9 @@ nav{
     justify-content: space-between;
     margin: 0 200px;
 }
+.secondary-bg{
+    background-color: #fff8f3;
+}
 .text-primary{
     color: #fd6e0a;
 }
@@ -91,4 +94,7 @@ main{
 }
 .item-description{
     font-weight: 600;
+}
+.text-center{
+    text-align: center;
 }
